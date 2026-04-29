@@ -70,20 +70,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add your screenshots here)*
-
-| Login | Dashboard | Room |
-|---|---|---|
-| `screenshot-login.png` | `screenshot-dashboard.png` | `screenshot-room.png` |
-
-| Chat | Whiteboard | Profile |
-|---|---|---|
-| `screenshot-chat.png` | `screenshot-whiteboard.png` | `screenshot-profile.png` |
-
----
-
 ## 🏗️ Architecture
 
 ```
